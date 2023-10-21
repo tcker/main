@@ -1,5 +1,4 @@
--- Online SQL Editor to Run SQL Online.
--- Use the editor to create new tables, insert data and all other SQL operations.
+// Simple Database Manipulation with the Deletion of an Item.
   
 CREATE TABLE Products (
   ProductID Int Primary Key,
