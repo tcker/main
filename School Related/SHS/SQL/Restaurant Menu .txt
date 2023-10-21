@@ -1,3 +1,5 @@
+-- Simple MangInasal Database Menu
+
 CREATE TABLE MangInasal (
     ID INT PRIMARY KEY,
     ItemName VARCHAR(50),
