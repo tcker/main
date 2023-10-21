@@ -22,11 +22,3 @@ cout << "Enter slope: ";
 
 	return 0;
 }
-
-
-
-
-
-
-
-
