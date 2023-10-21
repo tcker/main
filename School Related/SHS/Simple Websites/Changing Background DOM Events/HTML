@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+		<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+	</head>
+	<body>
+		
+		<center>
+		<DIV CLASS="ancestors">
+ <DIV STYLE="width:500px;">Quality is not an act, it is a habit. ...
+ <UL>Love is composed of a single soul inhabiting two bodies. ..
+ <LI>There is no great genius without some touch of madness.
+ <SPAN>span</SPAN>
+ </LI>
+ </UL>
+ </DIV>
+</DIV>
+<div class="cursor"></div>
+	</body>
+</html>
