@@ -1,4 +1,4 @@
--- Simple Database Manipulation with the Deletion of an Item.
+-- Simple Database Manipulation with the Deletion of an Item. Removing the brand from (ID: 406	Product Name: Nvidia RTX A5000)
   
 CREATE TABLE Products (
   ProductID Int Primary Key,
