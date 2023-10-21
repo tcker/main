@@ -1,0 +1,14 @@
+body 
+{
+	background-image: url(https://images.hdqwalls.com/wallpapers/this-is-cyberpunk-city-mn.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ancestors * {
+ display: block;
+ border: 2px solid rgb(0, 255, 55);
+ color: rgb(0, 255, 42);
+ padding: 5px;
+ margin: 15px;
+ font-size: 20px;
+}
