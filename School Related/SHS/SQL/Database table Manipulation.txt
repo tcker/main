@@ -1,4 +1,4 @@
-// Simple Database Manipulation with the Deletion of an Item.
+-- Simple Database Manipulation with the Deletion of an Item.
   
 CREATE TABLE Products (
   ProductID Int Primary Key,
