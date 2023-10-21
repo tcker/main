@@ -1,4 +1,4 @@
--- Simpkle School Database
+-- Simple School Database
 
 CREATE TABLE Teacher (
   Surname VARCHAR(50),
