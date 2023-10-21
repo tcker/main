@@ -1,5 +1,3 @@
-
-
 $("span").parentsUntil("div").css({"color": "red"});
 $(document).ready(function(){
   $("div").hover(function(){
